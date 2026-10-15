@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayman-kandouli-6a493b21a"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;
+  <a href="https://sawa-app.ch/"><img src="assets/btn-sawa.svg" alt="Sawa website" height="38"></a>&nbsp;
   <a href="https://orio-03.github.io/Cliptrove/"><img src="assets/btn-cliptrove.svg" alt="Cliptrove website" height="38"></a>
 </p>
 
@@ -15,36 +16,19 @@
 
 ### 🎬 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <a href="https://github.com/Orio-03/Cliptrove"><img src="assets/cliptrove-demo.webp" alt="Cliptrove: browsing games, previewing a clip, mixing its audio and looking at analytics" width="100%"></a>
 
-**[Cliptrove](https://github.com/Orio-03/Cliptrove)** · *All your game clips in one place*
+**[Cliptrove](https://github.com/Orio-03/Cliptrove)** puts every game clip from SteelSeries GG, NVIDIA, AMD, Xbox Game Bar, OBS and Medal into one library. Watch them, mix the Game, Chat and Mic audio, trim and share, and see what you've been playing, with a forecast of next week's games. It runs entirely on your PC.
 
-A free Windows app that puts clips from SteelSeries GG, NVIDIA, AMD, Xbox Game Bar, OBS and Medal into one library. Watch, mix the Game, Chat and Mic audio, trim and share, and see what you play, with a forecast of next week's games.
+`Python` `JavaScript` `ffmpeg` `SQLite` `GitHub Actions` &nbsp;·&nbsp; [Website](https://orio-03.github.io/Cliptrove/) · [Download](https://github.com/Orio-03/Cliptrove/releases/latest)
 
-`Python` `JavaScript` `ffmpeg` `GitHub Actions`
-
-[Website](https://orio-03.github.io/Cliptrove/) · [Download](https://github.com/Orio-03/Cliptrove/releases/latest) · [Code](https://github.com/Orio-03/Cliptrove)
-
-</td>
-<td width="50%" valign="top">
+<br>
 
 <a href="https://sawa-app.ch/"><img src="assets/sawa.webp" alt="Sawa's website: Turn your mood into a plan with real people" width="100%"></a>
 
-**[Sawa](https://sawa-app.ch/)** · *Turn your mood into a real plan*
+**[Sawa](https://sawa-app.ch/)** turns your mood into a real plan. Pick how you feel, like coffee, a walk or a workout, and it matches you with a nearby spot and the friends who are up for it. Less scrolling, more real life. Coming soon to iOS and Android.
 
-A social app that gets you off the feed and out the door. Pick a mood, like coffee, a walk or a workout, and Sawa matches you with a nearby spot and the friends who are up for it. Coming soon to iOS and Android.
-
-`React Native` `Expo` `TypeScript` `Supabase` `MapLibre`
-
-[Website](https://sawa-app.ch/)
-
-</td>
-</tr>
-</table>
+`React Native` `Expo` `TypeScript` `Supabase` `MapLibre` &nbsp;·&nbsp; [Website](https://sawa-app.ch/)
 
 ### 🧰 What I work with
 
