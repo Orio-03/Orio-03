@@ -16,19 +16,10 @@
 
 ### 🎬 Featured projects
 
-<a href="https://github.com/Orio-03/Cliptrove"><img src="assets/cliptrove-demo.webp" alt="Cliptrove: browsing games, previewing a clip, mixing its audio and looking at analytics" width="100%"></a>
-
-**[Cliptrove](https://github.com/Orio-03/Cliptrove)** puts every game clip from SteelSeries GG, NVIDIA, AMD, Xbox Game Bar, OBS and Medal into one library. Watch them, mix the Game, Chat and Mic audio, trim and share, and see what you've been playing, with a forecast of next week's games. It runs entirely on your PC.
-
-`Python` `JavaScript` `ffmpeg` `SQLite` `GitHub Actions` &nbsp;·&nbsp; [Website](https://orio-03.github.io/Cliptrove/) · [Download](https://github.com/Orio-03/Cliptrove/releases/latest)
-
-<br>
-
-<a href="https://sawa-app.ch/"><img src="assets/sawa.webp" alt="Sawa's website: Turn your mood into a plan with real people" width="100%"></a>
-
-**[Sawa](https://sawa-app.ch/)** turns your mood into a real plan. Pick how you feel, like coffee, a walk or a workout, and it matches you with a nearby spot and the friends who are up for it. Less scrolling, more real life. Coming soon to iOS and Android.
-
-`React Native` `Expo` `TypeScript` `Supabase` `MapLibre` &nbsp;·&nbsp; [Website](https://sawa-app.ch/)
+<p align="center">
+  <a href="https://github.com/Orio-03/Cliptrove"><img src="assets/card-cliptrove.svg" alt="Cliptrove: all your game clips in one place. A free Windows app that brings clips from SteelSeries GG, NVIDIA, AMD, Xbox Game Bar, OBS and Medal into one library." width="49%"></a>
+  <a href="https://sawa-app.ch/"><img src="assets/card-sawa.svg" alt="Sawa: turn your mood into a real plan. A social app that matches you with a nearby spot and the friends who are up for it." width="49%"></a>
+</p>
 
 ### 🧰 What I work with
 
